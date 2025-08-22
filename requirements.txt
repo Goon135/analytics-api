@@ -1,0 +1,8 @@
+Flask==2.3.3
+pandas==1.5.3  # Более старая, но стабильная версия
+numpy==1.24.3
+SQLAlchemy==2.0.20
+psycopg2-binary==2.9.7
+openpyxl==3.1.2
+Flask-SQLAlchemy==3.0.5
+python-dotenv==1.0.0
